@@ -1,4 +1,4 @@
-package com.example.springjwt.Controller;
+package com.example.springjwt.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
